@@ -25,7 +25,7 @@ namespace WindowsFormsApp7
             }
             else
             {
-                button1.BackColor = Color.Orange;
+                button1.BackColor = Color.PaleGreen;
             }
             
             
