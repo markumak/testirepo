@@ -19,13 +19,13 @@ namespace WindowsFormsApp7
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (button1.BackColor == Color.Red)
+            if (button1.BackColor == Color.Yellow)
             {
                 button1.BackColor = Color.Green;
             }
             else
             {
-                button1.BackColor = Color.Blue;
+                button1.BackColor = Color.Yellow;
             }
 
 
